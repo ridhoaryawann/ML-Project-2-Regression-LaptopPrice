@@ -4,6 +4,8 @@
 
 The goal is to estimate laptop prices based on their specifications using machine learning. The project is contextualized in a **financial services scenario**, where laptops may be used as **collateral for loans**. This tool helps provide **data-driven estimations** of collateral value.
 
+[🖥️ **Live App**](https://loanasset3estimator4using5machinelearning6for1laptop.streamlit.app/)
+
 ---
 
 ## 🧠 Business Context
